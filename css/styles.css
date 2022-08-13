@@ -47,6 +47,7 @@ img{
 body {
     font-family: var(--primary-font);
     color: var(--main-text-color);
+    background-color: var(--main-fon-color);
 }
 .header-logo{
 font-family: var(--secondary-font);
